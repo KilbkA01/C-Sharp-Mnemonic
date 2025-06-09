@@ -5,6 +5,7 @@ Bitcoin Mnemonic Bruteforce C#
 
 # Eng  
 
+
 Implemented:  
 ✅ Silent(normal) mode - minimal display output  
 ✅ Debug mode - shows the complete process of generating mnemonics + 4 addresses and a private key  
